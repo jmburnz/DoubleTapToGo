@@ -69,5 +69,6 @@ module.exports = function(grunt) {
 
 	//'jshint', 
 	// Runt Grunt Tasks //
-    grunt.registerTask('default', ['uglify', 'watch']); 
+    grunt.registerTask('default', ['jshint', 'uglify', 'watch']); 
+    grunt.registerTask('test', ['jshint']); 
 };

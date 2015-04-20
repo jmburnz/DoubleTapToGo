@@ -19,7 +19,10 @@
       "url": "https://github.com/zenopopovici/DoubleTapToGo/blob/master/LICENSE"
     }
   ],
-  "keywords": ["browser update", "notification", "javascript", "oldie"],
+  "scripts": {
+  	"test": "grunt test"
+  },
+  "keywords": ["jquery", "doubletap", "javascript"],
 
   "private": false,
 
