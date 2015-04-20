@@ -1,3 +1,5 @@
+<a href="https://travis-ci.org/zenopopovici/DoubleTapToGo"><img src="https://travis-ci.org/zenopopovici/DoubleTapToGo.svg" alt="Build Status" /></a>
+
 Double Tap to Go
 ================
 
