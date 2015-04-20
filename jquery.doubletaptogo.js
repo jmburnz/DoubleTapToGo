@@ -43,7 +43,7 @@ Available for use under the MIT License
 	
 					if(resetItem)
 						curItem = false;
-				};
+				}
 			});
 		}
 		return this;	
